@@ -1,0 +1,15 @@
+# Discovery data (can be large, screenshots)
+# Uncomment if you don't want to track screenshots in git:
+# discovery-data/screenshots/*.png
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Temporary
+*.tmp
+*.bak
